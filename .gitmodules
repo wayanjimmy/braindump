@@ -1,3 +1,3 @@
 [submodule "themes/cortex"]
 	path = themes/cortex
-	url = git@github.com:jethrokuan/cortex.git
+	url = https://github.com/jethrokuan/cortex.git
