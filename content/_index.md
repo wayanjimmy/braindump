@@ -11,7 +11,7 @@ draft = false
 Saya [Jimmy](https://wayanjimmy.xyz/), ini adalah halaman blog saya.
 
 Website ini saya gunakan untuk media belajar menulis, nantinya akan ada artikel yang panjang.
-Namun untuk saat ini hanya ada tulisan-tulisan pendek yang saya sebut [Fragments](/fragments/).
+Untuk melihat daftar tulisan silakan menuju tautan [ini](/content/).
 
 Selamat menikmati!
 
