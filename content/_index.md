@@ -8,10 +8,9 @@ draft = false
 
 ## Halo! {#halo}
 
-Saya [Jimmy](https://wayanjimmy.xyz/), ini adalah halaman blog saya.
+Saya [Jimmy](https://wayanjimmy.xyz/), ini adalah halaman situs web yang merupakan konsep lanjutan dari versi sebelumnya di [notebook.wayanjimmy.xyz](http://notebook.wayanjimmy.xyz/)
 
-Website ini saya gunakan untuk media belajar menulis, nantinya akan ada artikel yang pendek dan panjang.
-Namun untuk saat ini hanya ada tulisan-tulisan pendek yang saya sebut [Fragments](/fragments/).
+Dalam situs ini saya akan menulis ulang dengan kata-kata sendiri hasil belajar, dan pemikiran-pemikiran yang muncul di kepala (Braindump). Nantinya akan ada artikel yang pendek dan panjang. Namun untuk saat ini hanya ada tulisan-tulisan pendek yang saya sebut [Fragments](/fragments/).
 
 Selamat menikmati!
 
