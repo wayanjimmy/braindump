@@ -12,6 +12,9 @@ Saya [Jimmy](https://wayanjimmy.xyz/), ini adalah halaman situs web yang merupak
 
 Dalam situs ini saya akan menulis ulang dengan kata-kata sendiri hasil belajar, dan pemikiran-pemikiran yang muncul di kepala [Braindump]({{< relref "20200611203452-braindump" >}}).
 
-Nantinya akan ada artikel yang pendek dan panjang. Namun untuk saat ini hanya ada tulisan-tulisan pendek yang saya sebut [Fragments](/fragments/).
+### Daftar Isi
+
+- [Fragments](/fragments/)
+- [Books]({{< relref "20200601200701-books" >}})
 
 Selamat menikmati!
