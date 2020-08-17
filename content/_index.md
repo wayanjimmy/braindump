@@ -14,7 +14,8 @@ Dalam situs ini saya akan menulis ulang dengan kata-kata sendiri hasil belajar, 
 
 ### Daftar Isi
 
-- [Fragments](/fragments/)
 - [Books]({{< relref "20200601200701-books" >}})
+- [Course]({{< relref "20200816205109-course" >}})
+- [Fragments](/fragments/)
 
 Selamat menikmati!
