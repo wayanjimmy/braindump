@@ -7,6 +7,12 @@ draft = false
 ## Masalah dari konsep tempat kerja Open plan {#masalah-dari-konsep-tempat-kerja-open-plan}
 
 
+### Kenapa Open Space Office populer? Karena lebih hemat dibandingkan Personal Office Space. {#kenapa-open-space-office-populer-karena-lebih-hemat-dibandingkan-personal-office-space-dot}
+
+
+#### Selain itu didukung dengan meningkatnya popularitas tempat kerja yang lebih santai dan berkurang formalitasnya {#selain-itu-didukung-dengan-meningkatnya-popularitas-tempat-kerja-yang-lebih-santai-dan-berkurang-formalitasnya}
+
+
 ### Other reason why open plan become popular because it is very very cheap {#other-reason-why-open-plan-become-popular-because-it-is-very-very-cheap}
 
 
