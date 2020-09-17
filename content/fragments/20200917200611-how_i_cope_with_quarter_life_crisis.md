@@ -5,7 +5,7 @@ draft = false
 +++
 
 tags
-: [Life Cheatsheets]({{< relref "20200610133714-life_cheatsheets" >}})
+: [Life Cheatsheets]({{< relref "20200610133714-life_cheatsheets" >}}), [Braindump]({{< relref "20200611203452-braindump" >}})
 
 associations
 : [Krisis Hidup Seperempat Abad](https://www.goodreads.com/book/show/50858933-krisis-hidup-seperempat-abad)
