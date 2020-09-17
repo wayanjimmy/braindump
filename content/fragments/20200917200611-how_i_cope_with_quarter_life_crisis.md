@@ -16,7 +16,7 @@ Menurutku salah satu akar masalah dari QLC adalah diri ku yang berubah, mengalam
 
 Jadi tugas selanjutnya adalah mengenali lagi diri kita sendiri (Finding your true self). Beberapa hal yg sedang aku lakukan:
 
-1.  Rajin menulis daily journal. Apa yang dirasakan saat ini aku coba tulis, seperti bicara sama diri sendiri, selain belajar menulis kamu juga bisa melihat jalan pikiran mu dari waktu ke waktu, apakah masih sama dengan yang dulu atau udah berubah.
+1.  Rajin menulis _daily journal_. Apa yang dirasakan saat ini aku coba tulis, seperti bicara sama diri sendiri, selain belajar menulis kamu juga bisa melihat jalan pikiran mu dari waktu ke waktu, apakah masih sama dengan yang dulu atau udah berubah.
 
 2.  Menulis retro setiap hari sebelum tidur ([Day evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32)). Emang sulit bgt sih setiap hari, tp aku berusaha, walaupun masih banyak bolong. Format retro ku sekarang berupa 2 pertanyaan seperti ini?.
 
@@ -29,8 +29,8 @@ Jadi tugas selanjutnya adalah mengenali lagi diri kita sendiri (Finding your tru
 
 5.  Teruslah bertanya kepada diri sendiri. Ini adalah metode yg aku baru coba dan sejauh ini aku suka dengan konsep ini, setiap ada pertanyaan yang tiba tiba muncul di kepala, cobalah untuk tulis dan temukan jawabannya. Salah satu inspirasinya dari tweet [ini](https://twitter.com/visualizevalue/status/1302083512267350016).
 
-6.  Never accept status quo. Ketika baca kalimat ini seolah menonjok wajah ku dan mengingatkan aku untuk jangan pasrah menerima keadaan seperti ini, lakukan sesuatu untuk perbaiki, dan temukan caramu sendiri untuk memperbaikinya.
+6.  _Never accept status quo_. Ketika baca kalimat ini seolah menonjok wajah ku dan mengingatkan aku untuk jangan pasrah menerima keadaan seperti ini, lakukan sesuatu untuk perbaiki, dan temukan caramu sendiri untuk memperbaikinya.
 
 Akhir kata aku sendiri belum bisa bilang diriku keluar dari QLC hehehe. Tapi aku sedang berusaha, semangat juga buat teman-teman yang sedang menghadapi!
 
-Kamu tidak sendiri, terimalah keadaan ini & find your true self!
+Kamu tidak sendiri, terimalah keadaan ini & find your **true self**!
