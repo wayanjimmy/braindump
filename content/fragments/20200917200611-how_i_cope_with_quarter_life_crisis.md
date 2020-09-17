@@ -19,8 +19,10 @@ Jadi tugas selanjutnya adalah mengenali lagi diri kita sendiri (Finding your tru
 1.  Rajin menulis _daily journal_. Apa yang dirasakan saat ini aku coba tulis, seperti bicara sama diri sendiri, selain belajar menulis kamu juga bisa melihat jalan pikiran mu dari waktu ke waktu, apakah masih sama dengan yang dulu atau udah berubah.
 
 2.  Menulis retro setiap hari sebelum tidur ([Day evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32)). Emang sulit bgt sih setiap hari, tp aku berusaha, walaupun masih banyak bolong. Format retro ku sekarang berupa 2 pertanyaan seperti ini?.
+    -   Apa yang kamu pelajari?
+    -   Apa hal yang mengesankan/memorable hari ini?
 
-    Apa yang kamu pelajari? Apa hal yang mengesankan/memorable hari ini? Setiap hari pasti ada hal dipelajari, dan itu membuatku lebih bersyukur tentang hari itu.
+        Setiap hari pasti ada hal dipelajari, dan itu membuatku lebih bersyukur tentang hari itu.
 
 3.  Setelah menulis jangan ditulis aja, tapi sesekali baca lagi tulisan lama. Klo lagi bosen kadang aku baca-baca lagi tulisan sendiri secara random. Mungkin aja ada hal lucu yang kita dapetin hehe.
 
