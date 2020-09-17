@@ -30,3 +30,7 @@ Jadi tugas selanjutnya adalah mengenali lagi diri kita sendiri (Finding your tru
 5.  Teruslah bertanya kepada diri sendiri. Ini adalah metode yg aku baru coba dan sejauh ini aku suka dengan konsep ini, setiap ada pertanyaan yang tiba tiba muncul di kepala, cobalah untuk tulis dan temukan jawabannya. Salah satu inspirasinya dari tweet [ini](https://twitter.com/visualizevalue/status/1302083512267350016).
 
 6.  Never accept status quo. Ketika baca kalimat ini seolah menonjok wajah ku dan mengingatkan aku untuk jangan pasrah menerima keadaan seperti ini, lakukan sesuatu untuk perbaiki, dan temukan caramu sendiri untuk memperbaikinya.
+
+Akhir kata aku sendiri belum bisa bilang diriku keluar dari QLC hehehe. Tapi aku sedang berusaha, semangat juga buat teman-teman yang sedang menghadapi!
+
+Kamu tidak sendiri, terimalah keadaan ini & find your true self!
