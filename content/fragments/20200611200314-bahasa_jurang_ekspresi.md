@@ -5,7 +5,7 @@ draft = false
 +++
 
 tags
-: [Braindump]({{< relref "20200611203452-braindump" >}})
+: [Fragment]({{< relref "20201202202156-fragment" >}})
 
 Bisa membantu orang lain tanpa memikirkan timbal balik, bagiku adalah salah satu cara bahagia.
 Namun ketika membalas ucapan terima kasih seseorang, aku merasa seperti kehabisan kosa kata yang mewakili. Sesekali otak ini malas berpikir dan ucapan yang keluar sekadar "Santai aja, Gapapa kok".

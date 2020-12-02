@@ -1,0 +1,4 @@
+#+title: Fragment
+
+#+hugo_base_dir: ~/JimboyLabs/resources/braindump
+#+hugo_section: ./

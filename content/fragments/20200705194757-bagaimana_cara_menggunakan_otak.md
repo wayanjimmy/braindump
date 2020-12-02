@@ -5,7 +5,7 @@ draft = false
 +++
 
 tags
-: [Braindump]({{< relref "20200611203452-braindump" >}})
+: [Fragment]({{< relref "20201202202156-fragment" >}})
 
 Semakin lama teknologi semakin canggih dan memanjakan pengguna-nya. Hal ini berbahaya karena membuat pengguna-nya menjadi lupa akan kemampuan dirinya sendiri.
 

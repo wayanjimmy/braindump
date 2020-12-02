@@ -5,7 +5,7 @@ draft = false
 +++
 
 tags
-: [Life Cheatsheets]({{< relref "20200610133714-life_cheatsheets" >}}), [Braindump]({{< relref "20200611203452-braindump" >}})
+: [Fragment]({{< relref "20201202202156-fragment" >}})
 
 associations
 : [Krisis Hidup Seperempat Abad](https://www.goodreads.com/book/show/50858933-krisis-hidup-seperempat-abad) [Interstitial Journaling](https://nesslabs.com/interstitial-journaling) [Day evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32)
