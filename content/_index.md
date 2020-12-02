@@ -10,12 +10,10 @@ draft = false
 
 Saya [Jimmy](https://wayanjimmy.xyz/), ini adalah halaman situs web yang merupakan konsep lanjutan dari versi sebelumnya di [notebook.wayanjimmy.xyz](http://notebook.wayanjimmy.xyz/)
 
-Dalam situs ini saya akan menulis ulang dengan kata-kata sendiri hasil belajar, dan pemikiran-pemikiran yang muncul di kepala [Braindump]({{< relref "20200611203452-braindump" >}}).
+Dalam situs ini saya akan menulis ulang dengan kata-kata sendiri hasil belajar, dan pemikiran-pemikiran yang muncul di kepala.
 
 ### Daftar Isi
 
-- [Books]({{< relref "20200601200701-books" >}})
-- [Course]({{< relref "20200816205109-course" >}})
 - [Fragments](/fragments/)
 
 Selamat menikmati!
