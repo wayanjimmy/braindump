@@ -1,0 +1,27 @@
++++
+title = "Attach proxy to HTTP client"
+author = ["Wayanjimmy"]
+draft = false
++++
+
+related
+: [Golang]({{< relref "20201205165502-golang" >}})
+
+link
+: [Setting up proxy for HTTP client](https://stackoverflow.com/questions/14661511/setting-up-proxy-for-http-client)
+
+Construct a http client with a proxy
+
+```go
+proxyURL, _ := url.Parse("http://proxyIp:proxyPort")
+
+myClient := &http.Client{Transport: &http.Transport{Proxy: http.ProxyURL(proxyURL)}}
+```
+
+We could also modify the default transport used by the `net/http` package. This would affect the entire program.
+
+```go
+proxyURL, _ := url.Parse("http://proxyIp:proxyPort")
+
+http.DefaultTransport := &http.Transport{Proxy: http.ProxyURL(proxyURL)}
+```
