@@ -1,0 +1,15 @@
+#+title: Three Principal Layers
+#+hugo_base_dir: ~/JimboyLabs/resources/braindump
+#+hugo_section: ./notes
+#+hugo_publishdate: 2020-12-05
+
+- related :: [[file:20201205141225-pattern_of_enterprice_application_architecture.org][Pattern of Enterprice Application Architecture]]
+
+* Presentation Layer
+Provision of services, display of information (e.g. in windows or HTML, handling of user request, mouse clicks, keyboard hints), HTTP requests, command line invocation, batch API
+
+* Domain Layer
+Logic that is the real point of the system
+
+* Data Source Layer
+Communication with databases, messaging systems, transaction managers, other packages...

@@ -1,0 +1,4 @@
+#+title: Pattern of Enterprice Application Architecture
+#+roam_tags: Book
+#+hugo_base_dir: ~/JimboyLabs/resources/braindump
+#+hugo_section: ./notes
