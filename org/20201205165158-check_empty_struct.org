@@ -1,0 +1,20 @@
+#+title: Check Empty Struct
+#+hugo_base_dir: ~/JimboyLabs/resources/braindump
+#+hugo_section: ./notes
+#+hugo_publishdate: 2020-10-19
+
+- related :: [[file:20201205165502-golang.org][Golang]]
+
+Cara mengecek apakah struct di golang empty atau engga dengan reflect package
+
+#+begin_src go
+type Person struct {
+	Name string
+}
+
+jimmy := Person{}
+
+if reflect.valueOf(jimmy).IsZero() {
+	// struct is empty
+}
+#+end_src
