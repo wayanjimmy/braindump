@@ -2,7 +2,7 @@
 
 * Permasalahan
 
-Bbelakangan saya *kesulitan* untuk mengerjakan tugas-tugas di pekerjaan, terkait debugging sebuah service berbasis HTTP. Fitur yang saya debug , melibatkan lebih dari 1 service dan antar service berkomunikasi dengan melalui JSON REST api di protokol HTTP.
+Belakangan aku *kesulitan* untuk mengerjakan tugas-tugas di pekerjaan, terkait debugging sebuah service berbasis HTTP. Fitur yang aku debug , melibatkan lebih dari 1 service dan antar service berkomunikasi dengan melalui JSON REST api di protokol HTTP.
 
 * Mempelahari cara kerja sistem
 
