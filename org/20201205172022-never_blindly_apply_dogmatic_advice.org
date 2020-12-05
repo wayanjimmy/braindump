@@ -1,0 +1,7 @@
+#+title: Never blindly apply dogmatic advice
+#+hugo_base_dir: ~/JimboyLabs/resources/braindump
+#+hugo_section: ./notes
+
+- related :: [[file:20201205171405-go_for_industrial_programming.org][Go for Industrial Programming]]
+
+We should never blindly apply dogmatic advice, and that we should use our judgement each and every time.

@@ -1,0 +1,11 @@
+#+title: Configure program using flags
+#+hugo_base_dir: ~/JimboyLabs/resources/braindump
+#+hugo_section: ./notes
+
+- related :: [[file:20201205171405-go_for_industrial_programming.org][Go for Industrial Programming]]
+
+Flags are the best way to configure your program, because they're a self documenting way to describe the configuration surface area of your program at a runtime.
+
+Flags can be inspected by other users of the system, and env vars can easily get *forgotten*
+
+[[file:20201205171728-domain_driven_over_mvc.org][Domain driven over MVC]] Just ensure that explicit command line flags, if given, take highest *priority*

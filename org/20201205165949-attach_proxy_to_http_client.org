@@ -13,7 +13,7 @@ proxyURL, _ := url.Parse("http://proxyIp:proxyPort")
 myClient := &http.Client{Transport: &http.Transport{Proxy: http.ProxyURL(proxyURL)}}
 #+end_src
 
-We could also modify the default transport used by the =net/http= package. This would affect the entire program.
+We could also modify the default transport used by the ~net/http~ package. This would affect the entire program.
 
 #+begin_src go
 proxyURL, _ := url.Parse("http://proxyIp:proxyPort")
