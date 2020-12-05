@@ -1,0 +1,51 @@
+#+title: Merantau
+#+hugo_base_dir: ~/JimboyLabs/resources/blog.wayanjimmy.xyz
+#+hugo_section: ./blog
+#+hugo_publishdate: 2020-12-04
+
+Tulisan ini bukan tentang film [[https://id.wikipedia.org/wiki/Merantau_(film)][Merantau]]. Melainkan sebuah uneg-uneg yang terpendam sejak lama di lubuk hati yang paling dalam. Diawali karena melihat beberapa tweet
+
+[[./images/kabur-dari-rumah.png]]
+
+dan ini lagi
+
+[[./images/balik-ngekos.png]]
+
+Jadi pengen bahas lagi alasan kenapa saya memilih menjauh dari kampung halaman dan pergi ke Jakarta. Sebelum saya lanjut, ini adalah hasil kilas balik, sesuatu yang belum sadari ketika saya memutuskan merantau hampir 2 tahun yang lalu.
+
+* Perubahan Mindset
+
+Beberapa kali sering terjebak dalam situasi, dan ga bisa keluar. Berulang kali terus mengalami hal yang sama, saya berinisiatif mencari bacaan terkait self growth.
+
+Beberapa bacaan yang paling nusuk adalah buku /How living abroad helps you develop a clearer sense of self/[fn:1] dari [[https://hbr.org][HBR]] dan Buku /Self Driving/[fn:2]
+
+* Dikendalikan oleh lingkungan
+
+Ada studi yang mempelajari bagaimana orang yang tinggal diluar negeri membuatnya lebih mengenali diri-nya sendiri.[fn:1]
+
+Ketika seseorang tinggal di kampung halaman, akan cenderung meneruskan kebiasaan lingkungannya, tanpa mempertanyakan apakah itu sesuai dengan /value/ yang dipegangnya.
+
+Sedangkan seseorang yang merantau, terpapar oleh banyak kebudayaan membuat /value/ yang dia percaya bisa jadi lebih *kuat* dan bisa juga *melemah*.
+
+Nah dari sini ada kemiripan dengan yang saya alami. Saat terjebak dalam situasi, mencoba keluar, membaca bacaan, dan begitu terus diulang-ulang. Sedikit demi sedikit mengubah pola pikir dan saya sampai pada suatu titik bahwa lingkungan ini tidak lagi cocok dengan /value/ yang saya pegang.
+
+* Mengambil alih kendali Hidup diri sendiri
+
+Ngutip dari buku /Self Driving/, by the way ini bukan buku tentang mobil yang bisa jalan sendiri ya wqwq.
+
+Buku ini menggunakan analogi saat bepergian dengan mobil. Kalau jadi penumpang kita tinggal duduk manis, bisa sambil nonton Netflix, ngobrol, makan bahkan bisa juga tiduran.[fn:2]
+
+Berbeda kalau jadi sopir, harus mikirin lewat jalan alternatif mana yang sebaiknya dilalui, kalau ketemu macet, harus berhati-hati dan setiap langkah yang diambil harus berpikir, karena ada sekian nyawa yang bergantung padanya.
+
+Dari sini saya merasa harus mengambil alih minimal Hidup saya sendiri dulu.
+
+* Kesimpulan
+
+Melihat kebelakang lagi, saya bersyukur dengan keputusan ini, saya belajar banyak dari lingkungan baru, belajar lebih cepat dibanding waktu masih dirumah.
+
+Beberapa hal yang dulu jadi masalah sekarang mulai terselesaikan, ada masalah baru dan mari kita selesaikan lagi, begitu aja terus...tapi itulah yang bikin saya lebih hidup, karena belajar menentukan hidup sendiri.
+
+* Catatan Kaki
+
+[fn:1] [[https://hbr.org/2018/05/how-living-abroad-helps-you-develop-a-clearer-sense-of-self][How Living abroad helps you develop a clearer sense of self]]
+[fn:2] [[https://www.goodreads.com/book/show/23311682-self-driving][Self Driving: Menjadi Driver atau Passenger?]]

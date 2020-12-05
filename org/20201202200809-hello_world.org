@@ -1,6 +1,0 @@
-#+title: Hello world
-
-#+hugo_base_dir: ~/JimboyLabs/resources/braindump
-#+hugo_section: ./fragments
-
-Hello world
