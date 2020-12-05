@@ -10,10 +10,6 @@ draft = false
 
 Saya [Jimmy](https://wayanjimmy.xyz/), ini adalah halaman situs web yang merupakan konsep lanjutan dari versi sebelumnya di [notebook.wayanjimmy.xyz](http://notebook.wayanjimmy.xyz/)
 
-Dalam situs ini saya akan menulis ulang dengan kata-kata sendiri hasil belajar, dan pemikiran-pemikiran yang muncul di kepala.
+Dalam situs ini saya akan menulis ulang dengan kata-kata sendiri apa yang dipelajari. Klik link dibawah untuk liat semua catatan.
 
-### Daftar Isi
-
-- [Fragments](/fragments/)
-
-Selamat menikmati!
+- [Notes](/notes/)
