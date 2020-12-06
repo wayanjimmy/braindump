@@ -1,0 +1,5 @@
+#+title: Essentialism
+#+roam_tags: Books
+
+- title :: Essentialism: The Diciplined Pursuit of Less
+- author :: Greg Mckeown
