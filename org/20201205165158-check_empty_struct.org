@@ -1,7 +1,6 @@
 #+title: Check Empty Struct
 #+hugo_base_dir: ~/JimboyLabs/resources/braindump
 #+hugo_section: ./notes
-#+hugo_publishdate: 2020-10-19
 
 - related :: [[file:20201205165502-golang.org][Golang]]
 

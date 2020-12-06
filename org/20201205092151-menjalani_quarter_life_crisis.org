@@ -3,7 +3,7 @@
 #+hugo_section: ./blog
 #+hugo_publishdate: 2020-12-05
 
-Tulisan ini dibuat untuk berpartisipasi di tweet oleh [[https://twitter.com/kelimuttu/status/1306535724561252354][Kiki]], yang mengajak untuk berbagi pengalaman menghadap Quarter Life Crisis (QLC), sambil menyelam minum air, aku tulis jadi blog post aja deh
+Tulisan ini dibuat untuk berpartisipasi di tweet oleh [[https://twitter.com/kelimuttu/status/1306535724561252354][Kiki]], yang mengajak untuk berbagi pengalaman menghadapi Quarter Life Crisis (QLC), sambil menyelam minum air, aku tulis jadi blog post aja deh
 
 Menurutku salah satu akar masalah dari QLC adalah diriku yang berubah, mengalami [[file:20201204205806-merantau.org::Perubahan Mindset][perubahan]] yang cukup besar dari sisi cara berpikir (/mindset/) atau pandangan menjalani hidup. Hal ini membuatku seperti gak ngenalin lagi diriku yang sebenarnya. Aku ga tau lagi apa hal yang aku suka, apa yang membuatku marah, ataupun sedih (jangan ikutan sedih ya wqwq)
 
