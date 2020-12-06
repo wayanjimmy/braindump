@@ -1,0 +1,5 @@
+#+title: Meritokrasi
+#+hugo_base_dir: ~/JimboyLabs/resources/braindump
+#+hugo_section: ./notes
+
+Sistem yang memberikan kesempatan kedapa seseorang untuk memimpin berdasarkan kemampuan atau prestasi, bukan kekayaan, senioritas, dan sebagainya.
