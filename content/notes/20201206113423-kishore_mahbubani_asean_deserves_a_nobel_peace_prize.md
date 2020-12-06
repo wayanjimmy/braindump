@@ -23,6 +23,6 @@ Baik Trump atau Biden keduanya belum bisa dikatakan sebagai _wake up call_ untuk
 
 ## China tidak mencetuskan perang selama 40 tahun {#china-tidak-mencetuskan-perang-selama-40-tahun}
 
-Kishore menjelaskan bahwa strategi Amerika dalam menghadapi China seperti tanpa perhitungan, Disamping itu China tidak mencetuskan perang selama 40 tahun, sama sekali tidak menembakan peluru, disisi lain Amerika saat kepemimpinan Obama melepaskan 26.000 bom ke 7 negara berbeda. Dana yang dihabiskan untuk perang setelah tragede 911 pun menghabiskan sekitar 5triliun dollar, bagaimana kalau uang itu sebaiknya digunakan untuk membantu 50% kelas bawah amerika, maka setiap warga negara akan menerima masing masing 30.000 dollar.
+Kishore menjelaskan bahwa strategi Amerika dalam menghadapi China seperti tanpa perhitungan, Disamping itu China tidak mencetuskan perang selama 40 tahun, sama sekali tidak menembakan peluru, disisi lain Amerika saat kepemimpinan Obama melepaskan 26.000 bom ke 7 negara berbeda.
 
-Mengapa membuang uang untuk perang? padahal rakyat sendiri menderita.
+Dana yang dihabiskan untuk perang setelah tragedi 911 pun menghabiskan sekitar 5triliun dollar, bagaimana kalau uang itu sebaiknya digunakan untuk membantu 50% kelas bawah amerika, maka setiap warga negara akan menerima masing masing 30.000 dollar. Mengapa membuang uang untuk perang? padahal rakyat sendiri menderita.
