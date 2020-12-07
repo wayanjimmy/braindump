@@ -1,6 +1,0 @@
-#+title: Go for Industrial Programming
-#+hugo_base_dir: ~/JimboyLabs/resources/braindump
-#+hugo_section: ./notes
-
-- related :: [[file:20201205165502-golang.org][Golang]]
-- links :: [[https://peter.bourgon.org/go-for-industrial-programming/][Go for Industrial Programming]]

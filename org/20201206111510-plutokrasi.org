@@ -1,7 +1,0 @@
-#+title: Plutokrasi
-#+hugo_base_dir: ~/JimboyLabs/resources/braindump
-#+hugo_section: ./notes
-
-Sistem pemerintahan yang mendasarkan suatu kekuasaan atas dasar kekayaan yang mereka miliki.
-
-Mengambil dari bahasa Yunani, ploutos yang berarti kekayaan dan kratos yang berarti kekuasaaan.

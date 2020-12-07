@@ -1,7 +1,0 @@
-#+title: Ikigai
-#+roam_tags: Books
-#+hugo_base_dir: ~/JimboyLabs/resources/braindump
-#+hugo_section: ./notes
-
-- title :: The Japanese Secret to a Long and Happy Life
-- author :: Hector Gracia and Fancesc Miralles
