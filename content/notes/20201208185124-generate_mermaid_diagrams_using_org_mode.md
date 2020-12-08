@@ -35,13 +35,9 @@ Specify mmdc executable path
 
 open org-mode buffer and create a `org-babel` source block:
 
-    ```nil
-       #+begin_src mermaid :file filename.png
-       sequenceDiagram
-        A-->B: Works!
-    ```
+    {{< figure src="/ox-hugo/test.png" >}}
 
-    \#+end\_src
+    please note that you need to specify the `:file` header arguments, see this [issue](https://github.com/arnm/ob-mermaid/issues/9)
 
 
 Exporting the `org-mode` document or invoking the the `org-babel-execute-src-block` function to generate the diagram.
