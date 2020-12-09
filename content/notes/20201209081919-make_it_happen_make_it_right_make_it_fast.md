@@ -9,8 +9,7 @@ related
 
 One formulation of an Agile way of building software, often missattributed to Kent Beck, is:
 
-> Make it work, make it right, make it fast
-> Kent Beck
+> Make it work, make it right, make it fast -- Kent Beck
 
 Where
 
