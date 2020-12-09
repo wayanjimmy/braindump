@@ -10,12 +10,6 @@ related
 link
 : [Command to insert code block?](https://emacs.stackexchange.com/questions/19945/command-to-insert-code-block)
 
-To insert code snippets like below
+Org mode supports insertion of empty structural elements like (like `'#+BEGIN_SRC'` and `'#+END_SRC'`) with just a few key strokes.
 
-```nil
-#+begin_src
-```
-
-\#+end\_src
-
-Press `<s` and then `TAB`
+For insert it quickly, press `<s` and then `TAB`
