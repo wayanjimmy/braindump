@@ -12,7 +12,6 @@ link
 
 Altough [Golang]({{< relref "20201205165502-golang" >}}) lets you test private functions, I would avoid it, as private functions are implementation detail to support public behaviour.
 
-> Test the public
-> Sandi Metsz
+> Test the public behaviour -- Sandi Metsz
 
 Sandi Metz describes private functions as being _less stable_ and you don't want to couple your tests to them.
