@@ -1,5 +1,5 @@
 +++
-title = "Something to do"
+title = "Chases two rabbit"
 author = ["Wayanjimmy"]
 draft = false
 +++
@@ -7,4 +7,4 @@ draft = false
 related
 : [Quotes]({{< relref "20210121152626-quotes" >}})
 
-> Something to do, Someone to love and Something to hope for -- Aristotle
+> A person who chases two rabbits catches neither -- Confucius

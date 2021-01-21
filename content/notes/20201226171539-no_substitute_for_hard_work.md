@@ -1,5 +1,5 @@
 +++
-title = "Something to do"
+title = "No substitute for hard work"
 author = ["Wayanjimmy"]
 draft = false
 +++
@@ -7,4 +7,4 @@ draft = false
 related
 : [Quotes]({{< relref "20210121152626-quotes" >}})
 
-> Something to do, Someone to love and Something to hope for -- Aristotle
+> There is no substitute for hard work -- Thomas Edison

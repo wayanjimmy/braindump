@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Learn go with tests]({{< relref "20201208202033-learn_go_with_tests" >}})
+: [Learn go with tests]({{< relref "20201208202033-learn_go_with_tests" >}}) [Quotes]({{< relref "20210121152626-quotes" >}})
 
 One formulation of an Agile way of building software, often missattributed to Kent Beck, is:
 
