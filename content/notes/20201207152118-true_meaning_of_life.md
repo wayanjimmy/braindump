@@ -5,7 +5,7 @@ draft = false
 +++
 
 link
-: Jordan Peterson on the True Meaning of Life
+: [Jordan Peterson on the True Meaning of Life](https://youtu.be/Z4yOfk6IHGc)
 
 related
 : [Philosophy]({{< relref "20210131181150-philosophy" >}})
