@@ -16,11 +16,11 @@ Install package by adding line below to your `.doom.d/packages.el`
 (package! ob-mermaid)
 ```
 
-Install mermaid.cli locally.
+Install [mermaid.cli](https://github.com/mermaid-js/mermaid-cli) locally.
 
 ```bash
 cd /to/your/org-roam-path
-yarn add mermaid.cli
+yarn add @mermaid-js/mermaid-cli
 ```
 
 Specify mmdc executable path
