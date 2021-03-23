@@ -7,7 +7,8 @@ draft = false
 related
 : [Elasticsearch]({{< relref "20201221151118-elasticsearch" >}})
 
-<!--listend-->
+
+## Docker compose example {#docker-compose-example}
 
 ```yaml
 version: "3.7"
@@ -44,4 +45,16 @@ volumes:
   mysqldata:
   redisdata:
   es01data:
+```
+
+
+## Troubleshooting {#troubleshooting}
+
+
+### vm.max\_map\_count [65530] is too low {#vm-dot-max-map-count-65530-is-too-low}
+
+the solution taken from [this](https://github.com/elastic/elasticsearch-docker/issues/92) github issue.
+
+```bash
+sudo sysctl -w vm.max_map_count=262144
 ```
