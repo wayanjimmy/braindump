@@ -4,6 +4,10 @@ author = ["Wayanjimmy"]
 draft = false
 +++
 
+related
+: [Tinkering]({{< relref "20210503100841-tinkering" >}})
+
+
 ## References {#references}
 
 

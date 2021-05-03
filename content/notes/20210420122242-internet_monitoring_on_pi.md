@@ -8,7 +8,7 @@ link
 : [Internet Monitoring](https://github.com/geerlingguy/internet-monitoring)
 
 related
-: [Pi Single Board Computer]({{< relref "20210420122611-pi_single_board_computer" >}})
+: [Pi Single Board Computer]({{< relref "20210420122611-pi_single_board_computer" >}}) [Tinkering]({{< relref "20210503100841-tinkering" >}})
 
 Dockerized internet monitoring based on Speedtest.
 

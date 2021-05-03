@@ -7,6 +7,9 @@ draft = false
 links
 : [Install Rancher on Single Node](https://rancher.com/docs/rancher/v2.0-v2.4/en/installation/other-installation-methods/single-node-docker/)
 
+related
+: [Tinkering]({{< relref "20210503100841-tinkering" >}})
+
 
 ## Install Docker {#install-docker}
 

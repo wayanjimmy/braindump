@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Git]({{< relref "20210217134705-git" >}})
+: [Git]({{< relref "20210217134705-git" >}}) [Tinkering]({{< relref "20210503100841-tinkering" >}})
 
 
 ## Setup Sourcegraph Docker {#setup-sourcegraph-docker}
