@@ -9,3 +9,6 @@ link
 
 author
 : Titus Winters, Tom Manshreck, Hyrum Wright
+
+related
+: [Books]({{< relref "20210504100738-books" >}})

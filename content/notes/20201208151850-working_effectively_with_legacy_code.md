@@ -9,3 +9,6 @@ link
 
 author
 : Martin Fowler
+
+related
+: [Books]({{< relref "20210504100738-books" >}})
