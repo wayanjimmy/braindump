@@ -12,6 +12,7 @@ Saya [Jimmy](https://wayanjimmy.xyz/), ini adalah halaman situs web yang merupak
 
 Dalam situs ini aku akan menulis ulang dengan kata-kata sendiri apa yang dipelajari. Berikut adalah beberapa topik yang saya sedang tertarik belakangan.
 
+- [Books](/notes/20210504100738-books/)
 - [Linux](/notes/20210502110347-linux/)
 - [Quotes](/notes/20210121152626-quotes/)
 - [Golang](/notes/20201205165502-golang/)
