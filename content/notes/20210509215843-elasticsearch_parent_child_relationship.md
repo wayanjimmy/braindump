@@ -13,8 +13,7 @@ related
 
 ## Restrictions {#restrictions}
 
-
-### Parent and child documents must be indexed on the same shard. This means that the same routing value needs to be provided when getting, deleting, or updating a child document. {#parent-and-child-documents-must-be-indexed-on-the-same-shard-dot-this-means-that-the-same-routing-value-needs-to-be-provided-when-getting-deleting-or-updating-a-child-document-dot}
+-   Parent and child documents must be indexed on the **same shard**. This means that the same routing value needs to be provided when getting, deleting, or updating a child document.
 
 
 ## Hands on {#hands-on}
