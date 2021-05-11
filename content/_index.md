@@ -14,6 +14,7 @@ Dalam situs ini aku akan menulis ulang dengan kata-kata sendiri apa yang dipelaj
 
 - [Books](/notes/20210504100738-books/)
 - [Linux](/notes/20210502110347-linux/)
+- [Talks](/notes/20210511121448-talks/)
 - [Quotes](/notes/20210121152626-quotes/)
 - [Golang](/notes/20201205165502-golang/)
 - [Tinkering](/notes/20210503100841-tinkering/)
