@@ -19,4 +19,4 @@ Terlalu banyak duduk ditempat kerja atau dirumah hanya mengurangi kesehatan otot
 -   Ganti junk food dengan buah
 -   Tidur yang cukup, 7-9 jam sehari, jangan lebih
 -   Sadar dengan kebiasaan sehari-hari, hindari melakukan kebiasaan yang buruk, ganti dengan kebiasaaan yang baru
--   Perilaku Stoicism dapat membantu untuk menurunkan stress
+-   Perilaku [Stoicism]({{< relref "20210513224723-stoicism" >}}) dapat membantu untuk menurunkan stress
