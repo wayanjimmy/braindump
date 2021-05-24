@@ -17,6 +17,7 @@ Dalam situs ini aku akan menulis ulang dengan kata-kata sendiri apa yang dipelaj
 - [Talks](/notes/20210511121448-talks/)
 - [Quotes](/notes/20210121152626-quotes/)
 - [Golang](/notes/20201205165502-golang/)
+- [Finance](/notes/20210425134255-finance/)
 - [Tinkering](/notes/20210503100841-tinkering/)
 - [Philosophy](/notes/20210131181150-philosophy/)
 
