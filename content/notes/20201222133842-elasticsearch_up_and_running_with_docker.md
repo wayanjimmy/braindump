@@ -58,3 +58,5 @@ the solution taken from [this](https://github.com/elastic/elasticsearch-docker/i
 ```bash
 sudo sysctl -w vm.max_map_count=262144
 ```
+
+or you can try to edit this permanently, read [more](https://stackoverflow.com/questions/42889241/how-to-increase-vm-max-map-count).
