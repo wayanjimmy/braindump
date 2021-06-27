@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Elasticsearch]({{< relref "20201221151118-elasticsearch" >}}) [Docker]({{< relref "20210518095808-docker" >}})
+: [Elasticsearch]({{< relref "20201221151118-elasticsearch" >}}) [Docker]({{< relref "20210518095808-docker" >}}) [Tinkering]({{< relref "20210503100841-tinkering" >}})
 
 
 ## Docker compose example {#docker-compose-example}
