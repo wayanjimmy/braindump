@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Kubernetes]({{< relref "20210509131750-kubernetes" >}}) [Kube Academy]({{< relref "20210704155301-kube_academy" >}})
+: [Kube Academy]({{< relref "20210704155301-kube_academy" >}})
 
 
 ## Control Loop {#control-loop}
