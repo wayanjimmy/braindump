@@ -27,7 +27,7 @@ related
     -   Ruko
     -   Hotel / Airbnb
 6.  Capital Gain
-    -   Beli jam, lukisan yang nilainya naik beberapa tahun kebudian
+    -   Beli jam, lukisan yang nilainya naik beberapa tahun kemudian
 7.  Royalti Income
     -   Punya brand, dapat income dari hak intelektual
 8.  Attention Income
