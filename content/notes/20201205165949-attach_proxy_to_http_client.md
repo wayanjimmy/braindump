@@ -8,7 +8,7 @@ related
 : [Golang]({{< relref "20201205165502-golang" >}})
 
 link
-: [Setting up proxy for HTTP client](https://stackoverflow.com/questions/14661511/setting-up-proxy-for-http-client)
+: [Setting up proxy for HTTP client](https://stackoverflow.com/questions/14661511/setting-up-proxy-for-http-client) [ProxyFromEnvironment](https://pkg.go.dev/net/http#ProxyFromEnvironment)
 
 Construct a http client with a proxy
 
