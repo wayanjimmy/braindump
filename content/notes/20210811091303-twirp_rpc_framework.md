@@ -184,7 +184,7 @@ func main() {
 
 ### Mount and run the server {#mount-and-run-the-server}
 
-On ==
+On `srva/main.go`
 
 ```go
 func main() {
@@ -203,6 +203,12 @@ func main() {
 
 ## Client Implementation in Golang {#client-implementation-in-golang}
 
+On `srvb/main.go`
+
+```go
+
+```
+
 
 ## Client Implementation in Javascript/Typescript {#client-implementation-in-javascript-typescript}
 
@@ -214,3 +220,9 @@ func main() {
 
 
 ## Retro {#retro}
+
+
+### Pros {#pros}
+
+
+### Cons {#cons}
