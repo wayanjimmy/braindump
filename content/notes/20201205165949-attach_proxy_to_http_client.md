@@ -5,10 +5,13 @@ draft = false
 +++
 
 related
-: [Golang]({{< relref "20201205165502-golang" >}})
+: [Golang]({{< relref "20201205165502-golang" >}}) [Menggunakan Proxy Tool untuk Debugging]({{< relref "20201203183009-menggunakan_proxy_tool_untuk_debugging" >}})
 
 link
 : [Setting up proxy for HTTP client](https://stackoverflow.com/questions/14661511/setting-up-proxy-for-http-client) [ProxyFromEnvironment](https://pkg.go.dev/net/http#ProxyFromEnvironment)
+
+
+## Attach proxy to HTTP Client {#attach-proxy-to-http-client}
 
 Construct a http client with a proxy
 
