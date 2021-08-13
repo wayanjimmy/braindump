@@ -8,7 +8,7 @@ related
 : [Tinkering]({{< relref "20210503100841-tinkering" >}}) [Golang]({{< relref "20201205165502-golang" >}})
 
 link
-: [Twirp Github](https://github.com/twitchtv/twirp)
+: [Twirp Github](https://github.com/twitchtv/twirp) [Twirpee RPC Proof of Concept](https://github.com/wayanjimmy/twirpee)
 
 
 ## Goals {#goals}
