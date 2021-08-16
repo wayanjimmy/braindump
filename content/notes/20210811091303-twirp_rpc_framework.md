@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Tinkering]({{< relref "20210503100841-tinkering" >}}) [Golang]({{< relref "20201205165502-golang" >}})
+: [Tinkering](20210503100841-tinkering.md) [Golang](20201205165502-golang.md)
 
 link
 : [Twirp Github](https://github.com/twitchtv/twirp) [Twirpee RPC Proof of Concept](https://github.com/wayanjimmy/twirpee)
@@ -211,7 +211,7 @@ func main() {
 
 On `srvb/main.go`
 
--   Use `protos.NewAServiceJSONClient` instead of the Protobuf Client for easier debugging when using HTTP Proxy. Read [here]({{< relref "20201205165949-attach_proxy_to_http_client" >}}) for details on how to setup http proxy to golang http client.
+-   Use `protos.NewAServiceJSONClient` instead of the Protobuf Client for easier debugging when using HTTP Proxy. Read [here](20201205165949-attach_proxy_to_http_client.md) for details on how to setup http proxy to golang http client.
 -   `http://localhost:8899` is the address of the proxy port, in this case I'm using [Whistle](https://github.com/avwo/whistle)
 
 <!--listend-->
