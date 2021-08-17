@@ -8,10 +8,10 @@ link
 : [The Fifth Dicipline](https://en.wikipedia.org/wiki/The%5FFifth%5FDiscipline) [Systems Thinking is Not Optimal](https://youtu.be/yuvHvi84TFw)
 
 related
-: [Talks](20210511121448-talks.md)
+: [Talks]({{<relref "20210511121448-talks.md#" >}})
 
 
-## [Everything is interconnected](20210217175014-everything_is_interconnected.md) {#everything-is-interconnected--20210217175014-everything-is-interconnected-dot-md}
+## [Everything is interconnected]({{<relref "20210217175014-everything_is_interconnected.md#" >}}) {#everything-is-interconnected--20210217175014-everything-is-interconnected-dot-md}
 
 
 ## Peter singh 11 law of system thinking {#peter-singh-11-law-of-system-thinking}
