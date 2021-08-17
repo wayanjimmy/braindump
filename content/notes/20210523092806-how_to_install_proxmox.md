@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Proxmox]({{< relref "20210509131657-proxmox" >}})
+: [Proxmox]({{<relref "20210509131657-proxmox.md#" >}})
 
 link
 : [Proxmox Install](https://youtu.be/%5Fu8qTN3cCnQ)

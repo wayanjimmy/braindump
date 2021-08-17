@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Docker Mastery]({{< relref "20210815122912-docker_mastery" >}})
+: [Docker Mastery]({{<relref "20210815122912-docker_mastery.md#" >}})
 
 
 ## Assignment {#assignment}
