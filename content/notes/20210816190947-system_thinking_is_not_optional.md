@@ -5,7 +5,7 @@ draft = false
 +++
 
 link
-: [The Fifth Dicipline](https://en.wikipedia.org/wiki/The%5FFifth%5FDiscipline) [Systems Thinking is Not Optimal](https://youtu.be/yuvHvi84TFw)
+: [The Fifth Dicipline](https://en.wikipedia.org/wiki/The%5FFifth%5FDiscipline) [Systems Thinking is Not Optional](https://youtu.be/yuvHvi84TFw)
 
 related
 : [Talks]({{<relref "20210511121448-talks.md#" >}})
