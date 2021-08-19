@@ -14,7 +14,7 @@ Create a docker file, `Dockerfile.local`
 
 ```dockerfile
 FROM golang:1.13-alpine AS build
-RUN go env -w GOPRIVATE=github.com/OkadocTech/*
+RUN go env -w GOPRIVATE=github.com/wayanjimmy/*
 
 ARG GITHUB_USERNAME=username
 ARG GITHUB_TOKEN=password
@@ -28,7 +28,6 @@ RUN go build -o app
 
 FROM alpine:latest AS final
 
-COPY --from=build /build/keys /keys
 COPY --from=build /build/app /app
 
 ENTRYPOINT ["/app"]
