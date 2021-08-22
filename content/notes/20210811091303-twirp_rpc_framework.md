@@ -464,7 +464,7 @@ func main() {
 
 -   We can implement contract driven development
 -   Generated code for web client
--   JSON client make it easier for debugging
+-   JSON client make it easier for debugging, you also can attach [a proxy to the http client]({{< relref "20201205165949-attach_proxy_to_http_client" >}}).
 -   I'm thinking of this as an alternative of GraphQL and REST API
 
 
