@@ -5,15 +5,9 @@ draft = false
 +++
 
 link
-: [Sejarah Filsafat Yunani Kuna: Platonisme](https://youtu.be/nR6kHaWvoyo)
+: [Sejarah Filsafat Yunani Kuna: Platonisme](https://youtu.be/nR6kHaWvoyo) [Kematian Socrates](https://id.wikipedia.org/wiki/Kematian%5FSocrates)
 
 related
-: [Philosophy]({{< relref "20210131181150-philosophy" >}})
+: [Philosophy]({{<relref "20210131181150-philosophy.md#" >}})
 
-Socrates dikenal menentang demokrasi, dan dia mati karena sistem demokrasi tersebut.
-
-Socrates diberi pilihan meminum racun atau pergi dari Athena 10 tahun.
-
-Socrates ber-prinsip lebih baik dia menerima ketidak adilan daripada berbuat tidak adil.
-
-Socrates dituduh menyebarkan agama baru, atheisme.
+Socrates dinilai telah merusak pikiran para pemuda di Athena dan ketiadaan rasa hormat kepada para dewa, sehingga ia dijatuhi hukuman mati dengan meminum secangkir minuman beracun.
