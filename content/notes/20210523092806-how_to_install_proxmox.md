@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Proxmox]({{< relref "20210509131657-proxmox" >}})
+: [Proxmox]({{<relref "20210509131657-proxmox.md#" >}})
 
 link
 : [Proxmox Install](https://youtu.be/%5Fu8qTN3cCnQ)
@@ -13,12 +13,12 @@ link
 
 ## Increase Storage {#increase-storage}
 
-> lvremove /dev/pve/data
+Before executing make sure delete the localvm from the storage section
 
-<!--quoteend-->
+```bash
+lvremove /dev/pve/data
 
-> lvresize -l +100%FREE /dev/pve/root
+lvresize -l +100%FREE /dev/pve/root
 
-<!--quoteend-->
-
-> resize2fs /dev/mapper/pve-root
+resize2fs /dev/mapper/pve-root
+```
