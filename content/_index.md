@@ -8,10 +8,9 @@ draft = false
 
 ## Hello! {#hello}
 
-I'm [Jimmy](https://wayanjimmy.xyz/), this sites tend to be an improvement from the previous [notebook.wayanjimmy.xyz](http://notebook.wayanjimmy.xyz/).
+I'm [Jimmy](https://wayanjimmy.xyz/), this sites tends to be an improvement from the previous [notebook.wayanjimmy.xyz](http://notebook.wayanjimmy.xyz/).
 
-Here are some notes that I collected 
-
+Here are some notes that I've been collected.
 
 ### Life
 
@@ -25,8 +24,12 @@ Here are some notes that I collected
 - [Linux](/notes/20210502110347-linux/)
 - [Golang](/notes/20201205165502-golang/)
 - [Docker](/notes/20210518095808-docker/)
+- [Ansible](/notes/20210807084603-ansible/)
+- [Proxmox](/notes/20210509131657-proxmox/)
+- [Multipass](/notes/20210228151250-multipass/)
 - [Doom Emacs](/notes/20201208184126-doom_emacs/)
 - [Elasticsearch](/notes/20201221151118-elasticsearch/)
+- [Pi: Single Board Computer](/notes/20210420122611-pi_single_board_computer/)
 
 ### Resources
 
