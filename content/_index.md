@@ -6,22 +6,37 @@ type = "index"
 draft = false
 +++
 
-## Halo! {#halo}
+## Hello! {#hello}
 
-Saya [Jimmy](https://wayanjimmy.xyz/), ini adalah halaman situs web yang merupakan suksesor dari versi sebelumnya di [notebook.wayanjimmy.xyz](http://notebook.wayanjimmy.xyz/).
+I'm [Jimmy](https://wayanjimmy.xyz/), this sites tends to be an improvement from the previous [notebook.wayanjimmy.xyz](http://notebook.wayanjimmy.xyz/).
 
-Di situs ini, semua tulisan masih dalam bentuk mentah, jika ingin membaca berdasarkan kategori bisa pilih tautan dibawah.
+Here are some notes that I've been collected.
 
-- [Books](/notes/20210504100738-books/)
-- [Linux](/notes/20210502110347-linux/)
-- [Talks](/notes/20210511121448-talks/)
-- [Course](/notes/20210818115002-course/)
+### Life
+
 - [Quotes](/notes/20210121152626-quotes/)
-- [Golang](/notes/20201205165502-golang/)
 - [Finance](/notes/20210425134255-finance/)
-- [Tinkering](/notes/20210503100841-tinkering/)
 - [Philosophy](/notes/20210131181150-philosophy/)
 
-Tautan dibawah untuk melihat semua catatan.
+### Learn & Tinkering Labs
+
+- [Git](/notes/20210217134705-git/)
+- [Linux](/notes/20210502110347-linux/)
+- [Golang](/notes/20201205165502-golang/)
+- [Docker](/notes/20210518095808-docker/)
+- [Ansible](/notes/20210807084603-ansible/)
+- [Proxmox](/notes/20210509131657-proxmox/)
+- [Multipass](/notes/20210228151250-multipass/)
+- [Doom Emacs](/notes/20201208184126-doom_emacs/)
+- [Elasticsearch](/notes/20201221151118-elasticsearch/)
+- [Pi: Single Board Computer](/notes/20210420122611-pi_single_board_computer/)
+
+### Resources
+
+- [Books](/notes/20210504100738-books/)
+- [Talks](/notes/20210511121448-talks/)
+- [Course](/notes/20210818115002-course/)
+
+click the full index to see all notes.
 
 - [Full index](/notes/)
