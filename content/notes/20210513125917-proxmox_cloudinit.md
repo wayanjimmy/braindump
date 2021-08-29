@@ -8,7 +8,7 @@ links
 : [Proxmox CloudInit Tutorial](https://youtu.be/Ygk7oq--mak)
 
 related
-: [Proxmox]({{<relref "20210509131657-proxmox.md#" >}}) [Linux]({{<relref "20210502110347-linux.md#" >}}) [Debian]({{<relref "20210819204654-debian.md#" >}})
+: [Proxmox]({{<relref "20210509131657-proxmox.md#" >}}) [Linux]({{<relref "20210502110347-linux.md#" >}})
 
 <!--listend-->
 
