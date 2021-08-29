@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Proxmox]({{< relref "20210509131657-proxmox" >}}) [Proxmox CloudInit]({{< relref "20210513125917-proxmox_cloudinit" >}})
+: [Proxmox]({{<relref "20210509131657-proxmox.md#" >}}) [Proxmox CloudInit]({{<relref "20210513125917-proxmox_cloudinit.md#" >}})
 
 link
 : [Install Proxmox virtual machine with Terraform](https://norocketscience.at/provision-proxmox-virtual-machines-with-terraform/)

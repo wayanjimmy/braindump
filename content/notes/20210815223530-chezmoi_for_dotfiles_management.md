@@ -4,9 +4,6 @@ author = ["Wayanjimmy"]
 draft = false
 +++
 
-related
-: [Tinkering](20210503100841-tinkering.md)
-
 link
 : [Chezmoi](https://github.com/twpayne/chezmoi)
 

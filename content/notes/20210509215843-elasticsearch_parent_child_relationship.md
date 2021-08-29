@@ -8,12 +8,13 @@ link
 : [Data Modeling in Elasticsearch](https://youtu.be/fPNiGjB8JR8) [Join Datatype Elasticsearch 6.8](https://www.elastic.co/guide/en/elasticsearch/reference/6.8/parent-join.html)
 
 related
-: [Elasticsearch]({{< relref "20201221151118-elasticsearch" >}}) [Handle relational data in Elasticsearch]({{< relref "20201222134415-handle_relational_data_in_elasticsearch" >}})
+: [Elasticsearch]({{<relref "20201221151118-elasticsearch.md#" >}}) [Handle relational data in Elasticsearch]({{<relref "20201222134415-handle_relational_data_in_elasticsearch.md#" >}})
 
 
-## Restrictions {#restrictions}
+## Must Read! {#must-read}
 
 -   Parent and child documents must be indexed on the **same shard**. This means that the same routing value needs to be provided when getting, deleting, or updating a child document.
+-   When doing reindex must provide the **routing** value, read [more](https://www.elastic.co/guide/en/elasticsearch/reference/6.8/parent-join.html#CO240-1)
 
 
 ## Hands on {#hands-on}
@@ -76,7 +77,7 @@ curl -XGET "http://es01:9200/series/movie/_search" -H 'Content-Type: application
         }
       }
     }
-  }
+    }
 }'
 ```
 

@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Tinkering]({{<relref "20210503100841-tinkering.md#" >}}) [Golang]({{<relref "20201205165502-golang.md#" >}})
+: [Golang]({{<relref "20201205165502-golang.md#" >}})
 
 link
 : [Twirp Github](https://github.com/twitchtv/twirp) [Twirpee RPC Proof of Concept](https://github.com/wayanjimmy/twirpee)
