@@ -22,21 +22,50 @@ related
 ### Attributes {#attributes}
 
 
-#### Reliability {#reliability}
+#### Main Attributes {#main-attributes}
 
-Harus tetap bekerja dengan benar, walaupun ada kesulitan yang mengganjal
+<!--list-separator-->
 
-Fault Tolerant
+-  Reliability
+
+    Harus tetap bekerja dengan benar, walaupun ada kesulitan yang mengganjal
+
+    Fault Tolerant
+
+<!--list-separator-->
+
+-  Scalability
+
+    Mencegah Software Fault, contoh pagination mengurangi human error yang menyebabkan software fault ketika load data banyak secara bersamaan.
+
+    Mencegah Hardware Fault dengan Graceful Shutdown
+
+<!--list-separator-->
+
+-  Maintainability
 
 
-#### Scalability {#scalability}
+#### Secondary Attributes {#secondary-attributes}
 
-Mencegah Software Fault, contoh pagination mengurangi human error yang menyebabkan software fault ketika load data banyak secara bersamaan.
+<!--list-separator-->
 
-Mencegah Hardware Fault dengan Graceful Shutdown
+-  Functional Suitability
 
+<!--list-separator-->
 
-#### Maintainability {#maintainability}
+-  Compability
+
+<!--list-separator-->
+
+-  Usability
+
+<!--list-separator-->
+
+-  Security
+
+<!--list-separator-->
+
+-  Portability
 
 
 ### References {#references}
