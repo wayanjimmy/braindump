@@ -8,7 +8,7 @@ link
 : [Ansible Boilerplates](https://github.com/xcad2k/ansible-boilerplates) [Deploy Docker with Ansible](https://www.the-digital-life.com/deploy-docker-with-ansible/)
 
 related
-: [Multipass]({{< relref "20210228151250-multipass" >}}) [Ansible]({{< relref "20210807084603-ansible" >}})
+: [Multipass]({{<relref "20210228151250-multipass.md#" >}}) [Ansible]({{<relref "20210807084603-ansible.md#" >}})
 
 
 ## Install the Docker Galaxy Extension for Ansible {#install-the-docker-galaxy-extension-for-ansible}

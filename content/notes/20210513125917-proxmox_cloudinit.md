@@ -8,13 +8,13 @@ links
 : [Proxmox CloudInit Tutorial](https://youtu.be/Ygk7oq--mak)
 
 related
-: [Proxmox]({{< relref "20210509131657-proxmox" >}})
+: [Proxmox]({{<relref "20210509131657-proxmox.md#" >}}) [Linux]({{<relref "20210502110347-linux.md#" >}})
 
 <!--listend-->
 
 ```bash
 ##Delete default user
-deluser --removehome testuser
+deluser --remove-home testuser
 
 ##Create swap file
 dd if=/dev/zero of=/swapfile bs=1024 count=1536000

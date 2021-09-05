@@ -4,8 +4,11 @@ author = ["Wayanjimmy"]
 draft = false
 +++
 
+link
+: [Multipass Key-Based Authentication](https://www.ivankrizsan.se/2020/12/23/multipass-key-based-authentication/)
+
 related
-: [Multipass]({{< relref "20210228151250-multipass" >}}) [Tinkering]({{< relref "20210503100841-tinkering" >}})
+: [Multipass]({{<relref "20210228151250-multipass.md#" >}})
 
 Create `cloud-init.yaml`
 

@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [Golang]({{< relref "20201205165502-golang" >}}) [Tinkering]({{< relref "20210503100841-tinkering" >}})
+: [Golang]({{<relref "20201205165502-golang.md#" >}})
 
 
 ## Links {#links}

@@ -5,10 +5,17 @@ draft = false
 +++
 
 related
-: [Tinkering]({{<relref "20210503100841-tinkering.md#" >}}) [Golang]({{<relref "20201205165502-golang.md#" >}})
+: [Golang]({{<relref "20201205165502-golang.md#" >}})
 
 link
 : [Twirp Github](https://github.com/twitchtv/twirp) [Twirpee RPC Proof of Concept](https://github.com/wayanjimmy/twirpee)
+
+
+## Problem {#problem}
+
+When working on multiple services that talking each other, I want to avoid creating the server and client manually.
+
+I see Twirp is interesting because it can generate server & client implementation based on the proto file that we defined.
 
 
 ## Goals {#goals}

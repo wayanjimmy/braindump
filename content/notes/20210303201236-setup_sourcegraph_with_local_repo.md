@@ -5,12 +5,12 @@ draft = false
 +++
 
 related
-: [Git]({{< relref "20210217134705-git" >}}) [Tinkering]({{< relref "20210503100841-tinkering" >}})
+: [Git]({{<relref "20210217134705-git.md#" >}}) [Tinkering]({{<relref "20210503100841-tinkering.md#" >}})
 
 
 ## Setup Sourcegraph Docker {#setup-sourcegraph-docker}
 
-Siapkan machine linux yang akan digunakan sebagai tempat sourcegraph server, gunakan [Multipass]({{< relref "20210228151250-multipass" >}}) untuk launch vm ubuntu noconfig.
+Siapkan machine linux yang akan digunakan sebagai tempat sourcegraph server, gunakan [Multipass]({{<relref "20210228151250-multipass.md#" >}}) untuk launch vm ubuntu noconfig.
 Pastikan docker sudah terinstall dan jalankan sourcegraph dengan metode [quick install](https://docs.sourcegraph.com/#quickstart-guide).
 
 {{< figure src="/ox-hugo/multipass-sourcegraph.png" >}}

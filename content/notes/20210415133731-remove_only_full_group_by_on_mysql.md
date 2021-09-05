@@ -5,7 +5,7 @@ draft = false
 +++
 
 related
-: [MySQL]({{< relref "20210415133341-mysql" >}}) [Docker]({{< relref "20210518095808-docker" >}})
+: [MySQL]({{<relref "20210415133341-mysql.md#" >}}) [Docker]({{<relref "20210518095808-docker.md#" >}})
 
 
 ## By Query {#by-query}
