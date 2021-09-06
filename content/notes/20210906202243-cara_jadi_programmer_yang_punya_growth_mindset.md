@@ -78,3 +78,11 @@ We were born as a **learner**
 
 -   mindset carol s. dweck
 -   thinking in bets, annie duke
+
+
+## Harga paling berharga adalah waktu {#harga-paling-berharga-adalah-waktu}
+
+-   alokasikan waktu untuk belajar
+-   energy terbatas untuk belajar
+-   alokasikan dengan bijak
+-   tidak perlu mempelajari segala hal
