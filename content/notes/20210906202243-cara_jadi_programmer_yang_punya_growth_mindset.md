@@ -80,7 +80,7 @@ We were born as a **learner**
 -   thinking in bets, annie duke
 
 
-## Harga paling berharga adalah waktu {#harga-paling-berharga-adalah-waktu}
+## Harta paling berharga adalah waktu {#harta-paling-berharga-adalah-waktu}
 
 -   alokasikan waktu untuk belajar
 -   energy terbatas untuk belajar
