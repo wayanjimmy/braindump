@@ -8,7 +8,7 @@ related
 : [Golang]({{<relref "20201205165502-golang.md#" >}})
 
 link
-: [Twirp Github](https://github.com/twitchtv/twirp) [Twirpee RPC Proof of Concept](https://github.com/wayanjimmy/twirpee)
+: [Twirp Github](https://github.com/twitchtv/twirp) [Twirpee RPC Proof of Concept](https://github.com/wayanjimmy/twirpee) [Mindmap](https://www.mindomo.com/mindmap/twirp-rpc-framework-cd369c82c93d457ba70a66327f01dd37)
 
 
 ## Problem {#problem}
