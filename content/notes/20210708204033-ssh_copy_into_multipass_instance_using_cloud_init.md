@@ -14,7 +14,7 @@ Create `cloud-init.yaml`
 
 ```yaml
 ssh_authorized_keys:
-  - <your_ssh_key>
+  - <your_ssh_public_key>
 ```
 
 and create a vm using this config
