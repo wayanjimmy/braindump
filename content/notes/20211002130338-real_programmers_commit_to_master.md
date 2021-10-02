@@ -8,7 +8,7 @@ link
 : [Real Programmers Commit to Master - Jakob Ehn](https://youtu.be/hL1OZfgoZGk)
 
 related
-: [Talks]({{<relref "20210511121448-talks.md#" >}})
+: [Talks]({{<relref "20210511121448-talks.md#" >}}) [Git]({{<relref "20210217134705-git.md#" >}})
 
 
 ## Background {#background}
@@ -183,6 +183,3 @@ Like canary release, but the feature is invisible to end users
 Test a feature in production without the user actually noticing it
 
 Often used for backend changes that could have large impact
-
-
-## Azure Devops as Real-life Trunk based development {#azure-devops-as-real-life-trunk-based-development}
