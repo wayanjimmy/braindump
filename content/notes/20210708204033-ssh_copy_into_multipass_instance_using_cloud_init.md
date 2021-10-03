@@ -19,6 +19,8 @@ ssh_authorized_keys:
 
 and create a vm using this config
 
-> multipass launch --cloud-init cloud-init.yaml
+```bash
+multipass launch --cloud-init cloud-init.yaml
+```
 
 Once launched, you can get the ip using `multipass list` and `ssh ubuntu@ip`
